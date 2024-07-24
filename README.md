@@ -5,4 +5,4 @@
 - *IFC - Campus Araquari*
 
 ## Subtitulo
-> "Aqui vai uma citação"
+> "De um peixa a um homem e ele ficara alimentado por um dia,ensine-o a pescar e ele ficara alimentado pela vida toda."
